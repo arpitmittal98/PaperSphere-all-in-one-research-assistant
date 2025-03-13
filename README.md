@@ -1,4 +1,4 @@
-# PaperSphere
+# PaperSphere - Research Paper Recommendaton using NLP and LLMs
 
 
 ## Dataset
